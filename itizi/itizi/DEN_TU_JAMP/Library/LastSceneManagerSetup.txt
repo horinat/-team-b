@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/DEN_TSU_JAMP_11_02.unity
+  isLoaded: 1
+  isActive: 1
